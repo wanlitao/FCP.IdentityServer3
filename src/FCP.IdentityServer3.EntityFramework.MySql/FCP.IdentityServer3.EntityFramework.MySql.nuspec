@@ -11,5 +11,8 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <copyright>$copyright$</copyright>
+    <dependencies>
+      <dependency id="FCP.IdentityServer3.EntityFramework" version="1.0.0" />
+    </dependencies>
   </metadata>
 </package>

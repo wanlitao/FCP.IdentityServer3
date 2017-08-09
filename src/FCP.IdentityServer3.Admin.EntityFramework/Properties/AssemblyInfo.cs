@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("FCP.IdentityServer3.Admin.EntityFramework")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("IdentityServer3 AdminUI EntityFramework Extensions for FCP(Fluent Compute Platform)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("GreatBillows")]
 [assembly: AssemblyProduct("FCP.IdentityServer3.Admin.EntityFramework")]
